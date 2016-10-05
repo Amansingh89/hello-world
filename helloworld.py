@@ -1,1 +1,1 @@
-print "Hello world"atus
+print "Hello world"
